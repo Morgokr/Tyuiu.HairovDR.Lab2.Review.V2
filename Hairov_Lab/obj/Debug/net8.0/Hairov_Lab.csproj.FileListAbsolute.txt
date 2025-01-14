@@ -1,0 +1,14 @@
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab.Review\Hairov_Lab\bin\Debug\net8.0\Hairov_Lab.exe
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab.Review\Hairov_Lab\bin\Debug\net8.0\Hairov_Lab.deps.json
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab.Review\Hairov_Lab\bin\Debug\net8.0\Hairov_Lab.runtimeconfig.json
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab.Review\Hairov_Lab\bin\Debug\net8.0\Hairov_Lab.dll
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab.Review\Hairov_Lab\bin\Debug\net8.0\Hairov_Lab.pdb
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab.Review\Hairov_Lab\obj\Debug\net8.0\Hairov_Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab.Review\Hairov_Lab\obj\Debug\net8.0\Hairov_Lab.AssemblyInfoInputs.cache
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab.Review\Hairov_Lab\obj\Debug\net8.0\Hairov_Lab.AssemblyInfo.cs
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab.Review\Hairov_Lab\obj\Debug\net8.0\Hairov_Lab.csproj.CoreCompileInputs.cache
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab.Review\Hairov_Lab\obj\Debug\net8.0\Hairov_Lab.dll
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab.Review\Hairov_Lab\obj\Debug\net8.0\refint\Hairov_Lab.dll
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab.Review\Hairov_Lab\obj\Debug\net8.0\Hairov_Lab.pdb
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab.Review\Hairov_Lab\obj\Debug\net8.0\Hairov_Lab.genruntimeconfig.cache
+C:\Users\hairo\source\repos\Tyuiu.HairovDR.Lab.Review\Hairov_Lab\obj\Debug\net8.0\ref\Hairov_Lab.dll
