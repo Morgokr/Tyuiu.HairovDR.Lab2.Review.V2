@@ -10,7 +10,7 @@ namespace Hairov_Lab
         static void Main(string[], args)
         {
             DataService ds = new DataService();
-            Console.Title = "Спринт #1 | Выполнил: Хаиров Д. Р. | ИС-22-2с";
+            Console.Title = "Спринт #1 | Выполнил: Хаиров Д. Р. | МКМб-22-1";
             double x = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine(ds.Calculate(x));
         }
